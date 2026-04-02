@@ -1,0 +1,8 @@
+{
+  "name": "The Civic Editorial - Bengaluru Traffic Citizen Watch",
+  "description": "A collaborative platform for citizens to report traffic violations, earn rewards, and contribute to safer roads in Bengaluru.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
